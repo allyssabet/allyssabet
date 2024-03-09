@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning coding on javascript
 - 👯 I’m looking to collaborate with anyone on any project
@@ -9,4 +7,3 @@
 - 📫 How to reach me: abetleyon@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I ❤️ gaming & books.
--->
